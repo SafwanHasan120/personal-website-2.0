@@ -16,7 +16,7 @@ function App() {
         {/* Hero */}
         <Hero />
         {/* Quicklinks */}
-        <div className="mt-40">
+        <div className="mt-20">
           <div className="text-4xl text-copy text-center">Don't want to scroll?</div>
           <Menu />
         </div>

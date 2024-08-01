@@ -6,7 +6,7 @@ const Menu = () => {
   return (
     <div className="p-4 mt-8">
       <div className="grid gap-4 grid-cols-2 lg:grid-cols-4">
-        <Card title="About Me" subtitle="Bio + Experience" href="#" Icon={FiUser}/>
+        <Card title="About Me" subtitle="Bio + Involvements" href="#" Icon={FiUser}/>
         <Card title="Projects" subtitle="Stuff I Created!" href="#" Icon={GrProjects} />
         <Card title="Skills" subtitle="Frameworks / Libraries" href="#" Icon={FiCode} />
         <Card title="Contact Me" subtitle="Stop Stalking and Get Talking!" href="#" Icon={FiMail}/>

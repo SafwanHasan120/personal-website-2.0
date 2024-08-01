@@ -18,10 +18,10 @@ const Hero = () => {
                     " Full-stack Developer.",
                     " UX Designer.",
                     " Football Fan.",
-                    " Hackathon Winner",
-                    " Movie Connoisseur",
-                    " Robotics Competitor",
-                    " AI/ML Enthusiast",
+                    " Hackathon Winner.",
+                    " Movie Connoisseur.",
+                    " Robotics Competitor.",
+                    " AI/ML Enthusiast.",
                     "                    why are you still here LOL"
                   ]}
                   loop={0}
